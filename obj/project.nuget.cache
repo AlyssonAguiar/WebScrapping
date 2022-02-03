@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v/4R1CUZNhWRMwBzuHHmZFfZxNqvi8F6K3gO8FWQYf0WAs0TPRcRxAtZHjyl5LQs3b1TAiWo7i8QSoNAKWkIJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alyss\\Desktop\\SubirParaGit\\WebScraping\\MSDNDemo\\MSDNDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alyss\\.nuget\\packages\\htmlagilitypack\\1.11.33\\htmlagilitypack.1.11.33.nupkg.sha512"
+  ],
+  "logs": []
+}

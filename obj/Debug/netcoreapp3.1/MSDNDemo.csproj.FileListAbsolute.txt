@@ -1,0 +1,17 @@
+C:\Users\alyss\Desktop\WebScraping\MSDNDemo\bin\Debug\netcoreapp3.1\MSDNDemo.exe
+C:\Users\alyss\Desktop\WebScraping\MSDNDemo\bin\Debug\netcoreapp3.1\MSDNDemo.deps.json
+C:\Users\alyss\Desktop\WebScraping\MSDNDemo\bin\Debug\netcoreapp3.1\MSDNDemo.runtimeconfig.json
+C:\Users\alyss\Desktop\WebScraping\MSDNDemo\bin\Debug\netcoreapp3.1\MSDNDemo.runtimeconfig.dev.json
+C:\Users\alyss\Desktop\WebScraping\MSDNDemo\bin\Debug\netcoreapp3.1\MSDNDemo.dll
+C:\Users\alyss\Desktop\WebScraping\MSDNDemo\bin\Debug\netcoreapp3.1\MSDNDemo.pdb
+C:\Users\alyss\Desktop\WebScraping\MSDNDemo\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\alyss\Desktop\WebScraping\MSDNDemo\obj\Debug\netcoreapp3.1\MSDNDemo.csprojAssemblyReference.cache
+C:\Users\alyss\Desktop\WebScraping\MSDNDemo\obj\Debug\netcoreapp3.1\MSDNDemo.Form1.resources
+C:\Users\alyss\Desktop\WebScraping\MSDNDemo\obj\Debug\netcoreapp3.1\MSDNDemo.csproj.GenerateResource.cache
+C:\Users\alyss\Desktop\WebScraping\MSDNDemo\obj\Debug\netcoreapp3.1\MSDNDemo.AssemblyInfoInputs.cache
+C:\Users\alyss\Desktop\WebScraping\MSDNDemo\obj\Debug\netcoreapp3.1\MSDNDemo.AssemblyInfo.cs
+C:\Users\alyss\Desktop\WebScraping\MSDNDemo\obj\Debug\netcoreapp3.1\MSDNDemo.csproj.CoreCompileInputs.cache
+C:\Users\alyss\Desktop\WebScraping\MSDNDemo\obj\Debug\netcoreapp3.1\MSDNDemo.csproj.CopyComplete
+C:\Users\alyss\Desktop\WebScraping\MSDNDemo\obj\Debug\netcoreapp3.1\MSDNDemo.dll
+C:\Users\alyss\Desktop\WebScraping\MSDNDemo\obj\Debug\netcoreapp3.1\MSDNDemo.pdb
+C:\Users\alyss\Desktop\WebScraping\MSDNDemo\obj\Debug\netcoreapp3.1\MSDNDemo.genruntimeconfig.cache
